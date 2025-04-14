@@ -320,7 +320,7 @@ Vip 🌟 :
 
 Pr-ice List💸 :
 Day-->150 Rs
-Week-->700 Rs
+Week-->650 Rs
 Month-->1600 Rs
 Dm: @Mr_offlineYt
 '''
