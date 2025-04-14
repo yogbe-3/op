@@ -319,9 +319,9 @@ Vip 🌟 :
 -> Concurrents Attack : 3
 
 Pr-ice List💸 :
-Day-->100 Rs
-Week-->400 Rs
-Month-->1000 Rs
+Day-->150 Rs
+Week-->700 Rs
+Month-->1600 Rs
 Dm: @Mr_offlineYt
 '''
     bot.reply_to(message, response)
